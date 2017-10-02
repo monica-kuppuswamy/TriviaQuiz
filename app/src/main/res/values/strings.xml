@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TriviaQuiz</string>
+    <string name="tvtitle">Welcome to </string>
+    <string name="tvtitle2">Trivia App</string>
+    <string name="btnexit">EXIT</string>
+    <string name="btnstart">START TRIVIA</string>
+    <string name="loadingtv">Loading Trivia</string>
+    <string name="triviaReady">Trivia Ready</string>
+    <string name="tvquesnum" />
+    <string name="tvtimeleft" />
+    <string name="tvloadingimage">Loading Image</string>
+    <string name="quitButton">Quit</string>
+    <string name="nextButton">Next</string>
+    <string name="triviaStats">Trivia Stats</string>
+    <string name="correctAnswers">Correct Answers</string>
+    <string name="lastMessage">Try again and see if you can get all the correct answers!</string>
+    <string name="tryAgain">Try Again</string>
+</resources>
