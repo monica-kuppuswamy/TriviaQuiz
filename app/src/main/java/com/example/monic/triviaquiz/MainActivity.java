@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements AsyncTriviaTask.I
         exit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
+                finishAffinity();
             }
         });
     }

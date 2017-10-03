@@ -147,7 +147,8 @@ public class TriviaActivity extends AppCompatActivity implements GetImageAsyncTa
         quitButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
+                Intent i = new Intent(TriviaActivity.this, MainActivity.class);
+                startActivity(i);
             }
         });
     }
